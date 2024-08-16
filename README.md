@@ -96,3 +96,7 @@ ___
 # Что делает метод toString() ?
 + Метод toString () Java класса Object **возвращает символьную строку, описывающую объект**
 ___
+# методы Nubers
++ Math.round(),ceil(),floor()
++  Math.max() and Math.min()
++  Math.pow() and Math.sqrt()
